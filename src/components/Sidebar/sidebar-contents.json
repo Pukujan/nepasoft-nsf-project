@@ -7,7 +7,7 @@
       {
         "id": "1-1",
         "name": "Upload-File",
-        "icon": "/icons/rfp-requirements.png",
+        "icon": "/icons/upload-sidebar-icon.png",
         "url": "/upload"
       }
     ]
@@ -19,7 +19,15 @@
     "subContents": [
       {
         "id": "1-1",
-        "name": "Overview"
+        "name": "Upload-File",
+        "icon": "/icons/upload-sidebar-icon.png",
+        "url": "/upload"
+      },
+      {
+        "id": "1-2",
+        "name": "Capability file",
+        "icon": "/icons/upload-sidebar-icon.png",
+        "url": "/"
       }
     ]
   },
@@ -30,7 +38,9 @@
     "subContents": [
       {
         "id": "1-1",
-        "name": "Overview"
+        "name": "Outline File",
+        "icon": "/icons/upload-sidebar-icon.png",
+        "url": "/"
       }
     ]
   },
