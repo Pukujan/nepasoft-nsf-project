@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "RPF Requirements",
+    "icon": "/icons/rfp-requirements.png",
+    "subContents": [
+      {
+        "id": "1-1",
+        "name": "Upload-File",
+        "icon": "/icons/rfp-requirements.png",
+        "url": "/upload"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Company Capability",
+    "icon": "/icons/company-capability.png",
+    "subContents": [
+      {
+        "id": "1-1",
+        "name": "Overview"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Response Outline",
+    "icon": "/icons/response-outline.png",
+    "subContents": [
+      {
+        "id": "1-1",
+        "name": "Overview"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Proposal Response",
+    "icon": "/icons/proposal-response.png",
+    "subContents": [
+      {
+        "id": "1-1",
+        "name": "Overview"
+      }
+    ]
+  }
+]
