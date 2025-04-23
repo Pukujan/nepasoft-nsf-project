@@ -3,10 +3,7 @@ import { useNavigate } from 'react-router-dom'; // Import useNavigate
 import sidebarContents from './sidebar-contents.json'; // Import the JSON file
 
 const Sidebar = () => {
-  const [openDropdowns, setOpenDropdowns] = useState({
-    NSF_Project: true,  // Ensures the NSF Project dropdown is open by default
-    "1-1": true,        // Ensures the "Upload-File" item is selected/open by default
-  });
+  const [openDropdowns, setOpenDropdowns] = useState({});
   const navigate = useNavigate(); // Initialize useNavigate hook
 
   const toggleElement = (id) => {
