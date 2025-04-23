@@ -30,7 +30,7 @@ const Sidebar = () => {
             alt="Dropdown"
             className="transform transition-transform duration-200 " />
         </button>
-        <span className={`${toggleSidebar ? 'hidden' : 'block'}`}>NSF Project</span>
+        <span className={`font-medium ${toggleSidebar ? 'hidden' : 'block'}`}>NSF Project</span>
         {/* Sidebar Toggle Button (Icon Only) */}
         <div className={`  `}>
           <button
